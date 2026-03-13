@@ -1,7 +1,1 @@
-{
-  "name": "hospital-system",
-  "description": "Hospital Management System",
-  "require": {
-    "php": "^8.0"
-  }
-}
+{ "name": "hospital-system", "description": "Hospital Management System", "require": { "php": "^8.2" } } 
